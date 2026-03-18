@@ -309,22 +309,28 @@ To verify the contract:
 **[0:00 – 0:10] Overview**
 > "This is the Stellar Payment dApp Level 3 — a fully functional dApp running on Stellar Testnet with a Soroban smart contract."
 
-**[0:10 – 0:20] UI Tour**
+**[0:00 - 0:01] UI Tour**
 > "The dark aurora glassmorphism interface features animated backgrounds, a floating navbar, and the pre-connect hero card with a pulsing diamond animation."
 
-**[0:20 – 0:30] Connect Wallet**
+**[0:02 - 0:03] Connect Wallet**
 > "Click ⚡ Connect Freighter. The Freighter modal opens. Select Freighter and approve — your address and XLM balance load immediately from the network."
 
-**[0:30 – 0:40] Send XLM**
+**[0:04 – 0:29] Send XLM**
 > "Enter a recipient address, type an amount or click a quick-amount button, then click 🚀 Send XLM. The progress steps animate — signing → submitting → confirming."
 
-**[0:40 – 0:50] Explorer Verification**
+**[0:29 – 0:30] Explorer Verification**
 > "The green success bar shows the tx hash. Click Explorer ↗ to see the confirmed transaction on stellar.expert."
 
-**[0:50 – 1:00] Tests & Contract State**
+**[0:29 – 0:30] Tests & Contract State**
 > "The Contract Stats card shows total volume and payments from the on-chain state. Running `npm test` shows 10 passing tests — all green."
 
-> 🎬 **Demo video link:** [Add your YouTube/Loom link here]
+**[0:31 - 0:38] Another Transaction to show one error handling**
+>"Onclick to cancel transaction Failed Transaction was there."
+
+ **[0:39 - 0:42]Falied Transaction Message**
+
+ 
+> 🎬 **Demo video**:-  
 
 ---
 
